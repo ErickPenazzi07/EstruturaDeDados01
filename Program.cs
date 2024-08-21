@@ -2,5 +2,6 @@
 
 static void NewMethod()
 {
-    Console.WriteLine("Hello, World!");
+    Console.WriteLine("Trabalhando com Git/Github");
+    Console.WriteLine("Minha primeira Branch");
 }
